@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mailsendingtest", "mailsendingtest\mailsendingtest.csproj", "{0D4EBEA3-F3BF-457B-A22D-F808F35DF525}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Util", "Util\Util.csproj", "{ADB56615-F1AA-499C-A5A4-B882B80ECFB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D4EBEA3-F3BF-457B-A22D-F808F35DF525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4EBEA3-F3BF-457B-A22D-F808F35DF525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4EBEA3-F3BF-457B-A22D-F808F35DF525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4EBEA3-F3BF-457B-A22D-F808F35DF525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADB56615-F1AA-499C-A5A4-B882B80ECFB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB56615-F1AA-499C-A5A4-B882B80ECFB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB56615-F1AA-499C-A5A4-B882B80ECFB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB56615-F1AA-499C-A5A4-B882B80ECFB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
